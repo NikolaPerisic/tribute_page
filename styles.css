@@ -1,0 +1,40 @@
+h1 {
+font-family: Vollkorn;
+font-size: 75px;
+}
+h2 {
+font-family: Sumana;
+font-size: 30px;
+}
+h3 {
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+h4 {
+  text-align: left;
+  font-size: 20px;
+  margin: 40px 40px 40px 40px;
+  }
+p {
+  font-size: 14px;
+  margin: 30px 30px 30px 30px;
+  text-align: center;
+}
+.frame {
+  border: 1px solid grey;
+  padding: 2px;
+  background-color: white;
+  font-family: Sumana;
+  font-size: 14px;
+  }
+.well {
+  min-height: 20px;
+  padding: 20px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  }
+ul {
+  margin-right: 40px;
+}
